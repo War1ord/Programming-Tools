@@ -1,0 +1,6 @@
+a tool where you enter a sql connection string and sql select query
+then select file or window
+if file open file save dialog and save
+if windows open new window with a full wrapped textbox and display generated class.
+
++ add function \ page to generated C# classes \ files per selected table's

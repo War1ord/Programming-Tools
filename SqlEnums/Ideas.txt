@@ -1,0 +1,1 @@
+work on Sql Enums app to give custom names\namespaces to the sql enums built and not as per database name. because of multiple envitoments a db might have and not allways the same name. So the enviroment and db name might change but the custom name stays the same. maybe to work it in the connection string work application name.
