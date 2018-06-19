@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormilizeFiles", "NormilizeFiles\NormilizeFiles.csproj", "{27894C16-2827-4ADC-A21A-8484229C9EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27894C16-2827-4ADC-A21A-8484229C9EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27894C16-2827-4ADC-A21A-8484229C9EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27894C16-2827-4ADC-A21A-8484229C9EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27894C16-2827-4ADC-A21A-8484229C9EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A8FFBD-FE4E-408A-B518-BCFBA190E4D2}
+	EndGlobalSection
+EndGlobal
